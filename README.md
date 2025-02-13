@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Siva
 
-#### 🚀 Full-Stack Developer | Tech Enthusiast | Open Source Contributor
+#### 🚀 Full-Stack Developer | Tech Enthusiast | Developer
 
 ## 🧐 About Me
 
