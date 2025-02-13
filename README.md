@@ -6,25 +6,22 @@
 
 ## 🧐 About Me
 
-#### 💻 Passionate about crafting complete web applications—from pixel-perfect front-end designs to robust back-end logic. I love building seamless user experiences while ensuring smooth server-side operations.
-
-⚡ Key Focus Areas:
-- 🔹 Writing clean, scalable, and efficient code ✨
-- 🔹 Optimizing performance & functionality ⚙
-- 🔹 Solving complex problems with creative solutions 🧩
-- 🔹 Delivering end-to-end, user-friendly solutions 🚀
-
-Let's build something amazing together! 💡
+#### 🔭 I’m currently working on MERN Stack Projects: Building user-friendly and responsive interfaces.
+#### 👯 I’m looking to collaborate on Projects that aim to solve real-world problems especially those using the MERN stack.
+#### 🤝 I’m looking for help with placements in Product-Based Companies.
+#### 🌱 I’m currently learning MERN Stack and DSA.
+#### 💬 Ask me about Fullstack Development.
+#### ⚡ Fun fact: "I write cleaner code than I keep my room!" 🧹💻
 
 ## Technologies
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,react,next,vite,md)](https://github.com/sivaprakasam-07)
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,bootstrap)](https://github.com/sivaprakasam-07)
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,bash,express,py,workers)](https://github.com/sivaprakasam-07)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,py)](https://github.com/sivaprakasam-07)
 
 ### DevOps
 
@@ -32,23 +29,23 @@ Let's build something amazing together! 💡
 
 ### Database
 
-[![Database](https://skillicons.dev/icons?i=mongo,mysql,sqlite,d3)](https://github.com/sivaprakasam-07)
+[![Database](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://github.com/sivaprakasam-07)
 
 ### Cloud
 
-[![Cloud](https://skillicons.dev/icons?i=azure,aws,vercel,cloudflare,netlify)](https://github.com/sivaprakasam-07)
+[![Cloud](https://skillicons.dev/icons?i=vercel,netlify,aws)](https://github.com/sivaprakasam-07)
 
 ### Version Control
 
 [![Version Control](https://skillicons.dev/icons?i=git,github)](https://github.com/sivaprakasam-07)
 
-### Softwares
+### Tools & Softwares
 
-[![Softwares](https://skillicons.dev/icons?i=vscode,postman,figma,blender)](https://github.com/sivaprakasam-07)
+[![Tools](https://skillicons.dev/icons?i=vscode,figma,postman)](https://github.com/sivaprakasam-07)
 
 ### Operating System
 
-[![OS](https://skillicons.dev/icons?i=windows,ubuntu,linux)](https://github.com/sivaprakasam-07)
+[![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://github.com/sivaprakasam-07)
 
 ## Stats
 
@@ -57,7 +54,7 @@ Let's build something amazing together! 💡
 
 ## Social
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sivaprakasam-07)‎ ‎
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/siva_sr_46)‎ ‎
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sivaprakasam-07)‎ ‎ 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/siva_sr_46)‎ ‎ 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sivaprakasam-coder)‎
 
