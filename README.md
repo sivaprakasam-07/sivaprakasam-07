@@ -23,10 +23,6 @@
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,py)](https://github.com/sivaprakasam-07)
 
-### DevOps
-
-[![DevOps](https://skillicons.dev/icons?i=docker,githubactions)](https://github.com/sivaprakasam-07)
-
 ### Database
 
 [![Database](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://github.com/sivaprakasam-07)
