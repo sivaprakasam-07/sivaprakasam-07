@@ -33,7 +33,7 @@
 
 ### Tools & Softwares
 
-[![Tools](https://skillicons.dev/icons?i=vscode,figma,postman,vercel)](https://github.com/sivaprakasam-07)
+[![Tools](https://skillicons.dev/icons?i=vscode,figma,postman,vercel,firebase,chatgpt)](https://github.com/sivaprakasam-07)
 
 ## GitHub Stats
 
