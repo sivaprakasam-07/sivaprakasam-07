@@ -17,7 +17,7 @@
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,bootstrap)](https://github.com/sivaprakasam-07)
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,bootstrap,next)](https://github.com/sivaprakasam-07)
 
 ### Backend
 
