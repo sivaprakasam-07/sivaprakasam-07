@@ -39,7 +39,7 @@
 
 ### 🧠 Projects & Learning
 
-- 💡 Currently building: **[Your Project Name]** — MERN stack web app
+- 💡 Currently building: **[EventManagement System]** — MERN stack web app
 - 🛠 Exploring: **Next.js**, **Firebase Auth**, **MongoDB Aggregation**
 - 🎯 Goal: Crack placements at **Product-Based Companies**
 
