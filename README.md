@@ -1,53 +1,68 @@
-[![Hello](assets/hello.gif)](https://github.com/sivaprakasam-07)
+<!-- Banner -->
+<p align="center">
+  <img src="assets/hello.gif" alt="hello" height="200"/>
+</p>
 
-# 👋 Hey, I'm Siva
+<h1 align="center">Hey, I'm Siva 👋</h1>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-#### 🚀 Full-Stack Developer | Tech Enthusiast | Developer
+---
 
-## 🧐 About Me
+### 🧑‍💻 About Me
 
-#### 🔭 I’m currently working on MERN Stack Projects: Building user-friendly and responsive interfaces.
-#### 👯 I’m looking to collaborate on Projects that aim to solve real-world problems especially those using the MERN stack.
-#### 🤝 I’m looking for help with placements in Product-Based Companies.
-#### 🌱 I’m currently learning MERN Stack and DSA.
-#### 💬 Ask me about Fullstack Development.
-#### ⚡ Fun fact: "I write cleaner code than I keep my room!" 🧹💻
+- 🔭 Working on exciting **MERN stack projects** with clean, responsive UI.
+- 👯 Open to collaborating on **real-world problem-solving projects**.
+- 🌱 Currently learning **DSA** and advancing full-stack dev skills.
+- 💬 Ask me about anything related to **Fullstack Development**.
+- ⚡ Fun fact: *"I write cleaner code than I keep my room!"* 🧹💻
 
-## Technologies
+---
 
-### Frontend
+### 🛠️ Tech Stack
 
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,bootstrap,next)](https://github.com/sivaprakasam-07)
+#### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,bootstrap,next" />
+</p>
 
-### Backend
+#### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
+</p>
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,py)](https://github.com/sivaprakasam-07)
+#### 🗃️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,firebase" />
+</p>
 
-### Database
+#### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,chatgpt" />
+</p>
 
-[![Database](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://github.com/sivaprakasam-07)
+---
 
-### Version Control
+### 📈 GitHub Stats
 
-[![Version Control](https://skillicons.dev/icons?i=git,github)](https://github.com/sivaprakasam-07)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivaprakasam-07&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakasam-07&theme=tokyonight&layout=compact&hide_border=false" height="165"/>
+</p>
 
-### Tools & Softwares
+---
 
-[![Tools](https://skillicons.dev/icons?i=vscode,figma,postman,vercel,firebase,chatgpt)](https://github.com/sivaprakasam-07)
+### 💬 Dev Quote
 
-## GitHub Stats
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivaprakasam-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprakasam-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📫 Let's Connect
 
-✍️ **Random Dev Quote**
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## Social
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sivaprakasam-07)‎ ‎ 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/siva_sr_46)‎ ‎ 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sivaprakasam-coder)‎
-
+<p align="center">
+  <a href="https://github.com/sivaprakasam-07"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://instagram.com/siva_sr_46"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/sivaprakasam-coder"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
